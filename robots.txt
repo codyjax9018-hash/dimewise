@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codyjax9018-hash.github.io/dimewise/sitemap.xml
